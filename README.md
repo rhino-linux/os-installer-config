@@ -1,0 +1,2 @@
+# calamares-settings
+Calamares configuration

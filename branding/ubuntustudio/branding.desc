@@ -1,0 +1,30 @@
+---
+componentName: ubuntustudio
+
+windowExpanding:    normal
+windowSize:         "890px,600px"
+
+strings:
+    productName:         Ubuntu Studio
+    shortProductName:    Ubuntu Studio
+    version:             22.04
+    shortVersion:        jammy
+    versionedName:       Ubuntu Studio
+    shortVersionedName:  Ubuntu Studio 22.04
+    bootloaderEntryName: Ubuntu
+    productUrl:          https://ubuntustudio.org/
+    supportUrl:          https://ubuntustudio.org/support/
+
+images:
+    productLogo:         "logo.png"
+    productIcon:         "icon.png"
+    productWelcome:      "welcome.png"
+
+slideshow:               "show.qml"
+
+slideshowAPI:            1
+
+style:
+   sidebarBackground:    "#2d2d2d"
+   sidebarText:          "#FFFFFF"
+   sidebarTextSelect:    "#4285F4"

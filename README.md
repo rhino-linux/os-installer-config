@@ -1,5 +1,2 @@
-## calamares-settings
-This repository holds configuration for calamares settings for rhino-linux.
-
-# Credits:
-* [calamares-settings-ubuntustudio](https://packages.ubuntu.com/jammy/calamares-settings-ubuntustudio) for the fork with the license at https://git.launchpad.net/ubuntu-calamares-settings/plain/LICENSE
+# Rhino Linux os-installer configuration
+This repository holds [os-installer](https://gitlab.gnome.org/p3732/os-installer) configs for Rhino Linux distribution
